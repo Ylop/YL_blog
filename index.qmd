@@ -10,3 +10,25 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+```{r}
+install.packages("usethis")
+```
+```{r}
+usethis::use_git_config(
+  # your name
+  user.name = "Ylop",
+  # your email used in your GitHub account
+  user.email = "yaninal@uninorte.edu.com"
+)
+```
+
+```{r}
+usethis::create_github_token("repository1790")
+```
+```{r}
+gitcreds::gitcreds_set()
+```
+
+
+
