@@ -1,19 +1,28 @@
+editor: visual
+
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "YL_blog"
+  title: "Yanina López B."
   navbar:
     right:
-      - about.qmd
+      - text: "About"
+        file: about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: " "
+    number-sections: false
+    code-copy: true
 
-editor: visual
 
