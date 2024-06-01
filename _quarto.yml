@@ -12,9 +12,12 @@ website:
         file: about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
-
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yanina-lópez-berrio-0291534b/
+      - icon: minciencias
+        href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125751
+      - icon: orcid
+        href: https://orcid.org/0000-0001-8600-8537
 format:
   html:
     theme: lux

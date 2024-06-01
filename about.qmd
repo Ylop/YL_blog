@@ -2,13 +2,20 @@
 title: ""
 image: profile.jpg
 ---
-
 </center>
 
-::: {#hero-heading} 
+![](images/profile.jpg){fig-align="center" width="495"}
 
-## About 
-Me desempeño como Par académico de Registro Calificado del [Ministerio de Educación Nacional](https://www.mineducacion.gov.co/portal/) y Directora de los Programas de Ingeniería industrial y Seguridad y Salud en el Trabajo de la [Corporación Politécnico de la Costa Atlántica](https://pca.edu.co/wp/), soy profesora de medio tiempo del programa de [Ing. Industrial](https://pca.edu.co/wp/ingenieria-industrial/) de la misma Institución, profesora catedrática del programa de Especialización en Logística y Negocios Internacionales de la [Universidad Simón Bolívar](https://www.unisimon.edu.co), profesora catedrática del programa de Especialización en Ingeniería de la Calidad de la [Universidad Libre](https://www.unilibrebaq.edu.co/unilibrebaq/). Soy apasionada por la investigación, actualmente me encuentro investigando sobre diseño de almacenes modernos. Poseo conocimiento en nuevas tecnologías como Minería de Datos y Machine Learning, me destaco por mi optimismo, liderazgo, responsabilidad y sentido de pertenencia. Poseo experiencia en el sector productivo en las áreas de Sistemas de gestión, Producción, Logística y consultoría empresarial.
+
+## Perfil
+
+Me desempeño como Par académico de Registro Calificado del [Ministerio de Educación Nacional](https://www.mineducacion.gov.co/portal/), Directora de los Programas de Ingeniería industrial y Seguridad y Salud en el Trabajo de la [Corporación Politécnico de la Costa Atlántica](https://pca.edu.co/wp/), soy profesora de medio tiempo del programa de [Ing. Industrial](https://pca.edu.co/wp/ingenieria-industrial/) de la misma Institución, profesora catedrática del programa de Especialización en Logística y Negocios Internacionales de la [Universidad Simón Bolívar](https://www.unisimon.edu.co), profesora catedrática del programa de Especialización en Ingeniería de la Calidad de la [Universidad Libre](https://www.unilibrebaq.edu.co/unilibrebaq/). Soy apasionada por la investigación, actualmente me encuentro investigando sobre diseño de almacenes modernos. Poseo conocimiento en nuevas tecnologías como Minería de Datos y Machine Learning, me destaco por mi optimismo, liderazgo, responsabilidad y sentido de pertenencia. Poseo experiencia en el sector productivo en las áreas de Sistemas de gestión, Producción, Logística y consultoría empresarial.
+
+### Contacto
+
+Email: yaninalopezb@gmail.com
+
+Cel: 3005937703
 
 ### Educación
 
@@ -20,42 +27,89 @@ Me desempeño como Par académico de Registro Calificado del [Ministerio de Educ
 
 -   Ingeniero Industrial, [Universidad del Norte](https://www.uninorte.edu.co), Barranquilla. Enero 2017 — febrero 2012.
 
+### Habilidades
+Programación, Analítica de datos, Redacción Científica.
+
 ### Experiencia Académica
 
 ###### Director de programas Ing. Industrial y SST, Corporación Politécnico de la Costa Atlántica, Barranquilla. Junio 2017 — Presente.
+
 Planear, estructurar, dirigir y controlar las actividades académicas, administrativas y de gestión curricular de los programas de Ingeniería Industrial y Seguridad y Salud en el Trabajo por ciclos propedéuticos, direccionando las funciones sustantivas de: Docencia, investigación, extensión e Internacionalización en conformidad con el Proyecto Educativo Institucional.
 
 ###### Profesor medio tiempo, Corporación Politécnico de la Costa Atlántica, Barranquilla. Agosto 2017 — Presente.
+
 Cursos de Producción, Planificación de Ventas y Operaciones, Logística Industrial, Distribución Física internacional, Gestión de la cadena de abastecimiento y Logística del Transporte y Distribución.
 
 ###### Docente ocasional posgrado, Universidad Simón Bolívar, Barranquilla Abril 2023 — Presente.
+
 Docente de posgrado de Logística y negocios Internacionales en módulos de Gestión logística de la DFI y Seminario de Profundización en Logística 4.0.
 
 ###### Docente ocasional posgrado, Universidad Libre, Barranquilla. Noviembre 2023 — Presente.
+
 Docente de posgrados de Especialización en ingeniería de la Calidad y Maestría en Sistemas Integrados de Gestión en módulos de Consultoría empresarial.
 
 ###### Docente de educación continuada, Universidad EAN. Septiembre 2023 — Noviembre 2023.
+
 Docente de diplomado empresarial de Administración de empresas del programa "Plan de Formación 2022 SODIMAC"
 
 ###### Docente ocasional, Corporación Educativa Del Prado, Barranquilla. Marzo 2019 — Presente.
+
 Docente de diplomados de Gestión integral de la calidad, Logística Integral, Gerencia de Proyectos, Inteligencia Artificial y Capacitaciones empresariales en temas de Liderazgo, Planificación estratégica y Productividad.
 
 ###### Instructor, SENA, Barranquilla. Febrero 2016 — Junio 2017.
-Planificar el desarrollo curricular y desarrollo del proyecto formativo de los programas Tecnológicos Titulados de Gestión de la Producción Industrial y Gestión Integrada de la Calidad, Seguridad y Salud Ocupacional y Medio Ambiente y Miembro de equipo
-de aseguramiento de la calidad para registro calificado.
 
-### Experiencia en el sector Productivo
+Planificar el desarrollo curricular y desarrollo del proyecto formativo de los programas Tecnológicos Titulados de Gestión de la Producción Industrial y Gestión Integrada de la Calidad, Seguridad y Salud Ocupacional y Medio Ambiente y Miembro de equipo de aseguramiento de la calidad para registro calificado.
+
+### Experiencia en el sector productivo
 
 ###### Coordinador Senior de Planta, C.I. Energía Solar ESWindows S.A., Barranquilla. DICIEMBRE 2012 — Diciembre 2013.
+
 Liderar el diseño e implementación de proyectos de mejora continua aplicando metodologías como Lean manufacturing, TOC, Estudio del Trabajo; sustentar la rentabilidad de dichos proyectos, coordinar la organización y ampliación física de la planta, dirigir inducciones y reclutamiento de personal, velar por cumplimiento de metas de producción y facturación.
 
 ###### Ingeniero de Producción, C.I Energía Solar EWindows S.A., Barranquilla. Junio 2012 — Diciembre 2012
+
 Documentar los procedimientos de producción, supervisar la gestión y registros, Diseño y seguimiento de indicadores e informes de producción y Apoyo a la implementación de proyectos de mejora continua para optimizar la organización de líneas de producción.
 
 ###### Asistente de HSEQ, Promigas Telecomunicaciones (Actual CW Networks), Barranquilla. Agosto 2008 — Junio 2012.
+
 Brindar soporte a las actividades relacionadas con los sistemas integrados de gestión, a través de la propuesta, documentación y realización de proyectos según la normativa colombiana aplicable.
 
-### Cursos y Otros
-Curso de Resultados de Aprendizaje para pares académicos, Red SACES - Ministerio de Educación Nacional. Julio 2022
+### Uso de herramientas y software
 
-About this blog
+Python, R, Vensim, Bizagi, Office, Excel avanzado, Visio, AutoCad, AMPL, Mendeley, VosViewer.
+
+### Hobbies
+
+Cocina y ciclismo
+
+### Idiomas
+
+Español (Nativo), Inglés (Avanzado).
+
+### Cursos y otros
+
+Curso de Resultados de Aprendizaje para pares académicos, Red SACES - Ministerio de Educación Nacional. Julio 2022.
+
+Curso De Evaluación De Resultados De Aprendizaje En Educación Superior, ACIET. Diciembre de 2021.
+
+Curso de Creación de Proyectos de innovación en las IES, ACIET. Noviembre de 2021.
+
+II Foro internacional de Resultados de Aprendizajes para la Educación Superior, Ministerio de Educación Nacional. Octubre de 2021.
+
+Foro Internacional Resultados de Aprendizaje y Calidad en la Educación Superior, Ministerio de Educación Nacional. Noviembre de 2020.
+
+Seminario de herramientas TIC para el proceso de enseñanza y aprendizaje, Corporación Politécnico de la Costa Atlántica. Junio de 2020.
+
+Requisitos para la implementación del sistema de gestión de SST NTC ISO 45001:2018, ICONTEC. Octubre de 2019.
+
+La Importancia de la Ciberseguridad en los negocios, Tecnológico de Monterrey. Ciudad de México. Septiembre de 2019.
+
+Cómo crear empresas innovadoras con Lean Startup, UNAM. Ciudad de México. Septiembre 2019. 
+
+Desarrollo del pensamiento Lean como estrategia para la productividad en los negocios, SENA. Diciembre de 2016.
+
+Diseño de Estrategias didácticas para la formación profesional Integral, SENA. Octubre de 2016.
+
+Congreso Internacional de Logística y Supply Chain, Universidad EAFIT. Junio de 2015.
+
+Liderazgo e innovación empresarial sostenible - IIE, Pontificia Universidad Javeriana. Marzo de 2011.
