@@ -2,18 +2,12 @@
 title: ""
 image: profile.jpg
 ---
+
 </center>
 
-![](images/profile.jpg){fig-align="center" width="495"}
+![](images/profile.jpg){fig-align="center" width="563"}
 
-
-## Perfil
-
-Me desempeño como Par académico de Registro Calificado del [Ministerio de Educación Nacional](https://www.mineducacion.gov.co/portal/), Directora de los Programas de Ingeniería industrial y Seguridad y Salud en el Trabajo de la [Corporación Politécnico de la Costa Atlántica](https://pca.edu.co/wp/), soy profesora de medio tiempo del programa de [Ing. Industrial](https://pca.edu.co/wp/ingenieria-industrial/) de la misma Institución, profesora catedrática del programa de Especialización en Logística y Negocios Internacionales de la [Universidad Simón Bolívar](https://www.unisimon.edu.co), profesora catedrática del programa de Especialización en Ingeniería de la Calidad de la [Universidad Libre](https://www.unilibrebaq.edu.co/unilibrebaq/). Soy apasionada por la investigación, actualmente me encuentro investigando sobre diseño de almacenes modernos. Poseo conocimiento en nuevas tecnologías como Minería de Datos y Machine Learning, me destaco por mi optimismo, liderazgo, responsabilidad y sentido de pertenencia. Poseo experiencia en el sector productivo en las áreas de Sistemas de gestión, Producción, Logística y consultoría empresarial.
-
-### Contacto
-
-Email: yaninalopezb@gmail.com
+Tengo dos hermosos hijos: Gael y Gialena, quienes son mi mayor felicidad. En cuanto a mi perfil profesional soy Par académico de Registro Calificado del [Ministerio de Educación Nacional](https://www.mineducacion.gov.co/portal/) y hace 7 años me desempeño como Directora de los Programas de Ingeniería industrial y Seguridad y Salud en el Trabajo de la [Corporación Politécnico de la Costa Atlántica](https://pca.edu.co/wp/), también soy profesora de medio tiempo del programa de [Ing. Industrial](https://pca.edu.co/wp/ingenieria-industrial/) de la misma Institución, profesora del programa de Especialización en Logística y Negocios Internacionales de la [Universidad Simón Bolívar](https://www.unisimon.edu.co) y profesora del programa de Especialización en Ingeniería de la Calidad de la [Universidad Libre](https://www.unilibrebaq.edu.co/unilibrebaq/). Me encanta cocinar y soy apasionada por la investigación, actualmente me encuentro investigando sobre diseño de almacenes modernos. Poseo conocimiento en nuevas tecnologías como Minería de Datos y Machine Learning, me destaco por mi optimismo, liderazgo, responsabilidad y sentido de pertenencia. Poseo experiencia en el sector productivo en las áreas de Sistemas de gestión, Producción, Logística y consultoría empresarial.
 
 ### Educación
 
@@ -26,7 +20,12 @@ Email: yaninalopezb@gmail.com
 -   Ingeniero Industrial, [Universidad del Norte](https://www.uninorte.edu.co), Barranquilla. Enero 2017 — febrero 2012.
 
 ### Habilidades
+
 Programación, Analítica de datos, Redacción Científica.
+
+### Uso de herramientas y software
+
+Python, R, Vensim, Bizagi, Office, Excel avanzado, Visio, AutoCad, AMPL, Mendeley, VosViewer.
 
 ### Experiencia Académica
 
@@ -72,10 +71,6 @@ Documentar los procedimientos de producción, supervisar la gestión y registros
 
 Brindar soporte a las actividades relacionadas con los sistemas integrados de gestión, a través de la propuesta, documentación y realización de proyectos según la normativa colombiana aplicable.
 
-### Uso de herramientas y software
-
-Python, R, Vensim, Bizagi, Office, Excel avanzado, Visio, AutoCad, AMPL, Mendeley, VosViewer.
-
 ### Hobbies
 
 Cocina y ciclismo
@@ -102,7 +97,7 @@ Requisitos para la implementación del sistema de gestión de SST NTC ISO 45001:
 
 La Importancia de la Ciberseguridad en los negocios, Tecnológico de Monterrey. Ciudad de México. Septiembre de 2019.
 
-Cómo crear empresas innovadoras con Lean Startup, UNAM. Ciudad de México. Septiembre 2019. 
+Cómo crear empresas innovadoras con Lean Startup, UNAM. Ciudad de México. Septiembre 2019.
 
 Desarrollo del pensamiento Lean como estrategia para la productividad en los negocios, SENA. Diciembre de 2016.
 
